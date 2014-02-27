@@ -1,0 +1,6 @@
+Robot1.java: The Follow Line/ Rescue Robot
+The robot was required follow a black line - which was waving around a yellow plastic map. The robot had two light sensors facing down, which was used to detect the black, and if it identified the yellow colour it would realign itself and continue following the line. If the robot reached the end, there was an area that required the robot to perform a rescuing task by pushing an object out of the 'swamp' area. It was done by going up and down in a zigzag movement, which ended up
+making contact with the object and pushing it out of the way.
+
+Robot2.java: The Maze Robot
+The robot was required to navigate a maze to the exit. It was a wall follower design, which stuck as close to the wall as possible. If the robot hit a wall, it would then reverse and then realign itself to follow the wall again. It had to also incorporate some random decisional behaviour, in order to escape 'The Island' maze, which had a centre island wall, surrounded by an outside wall. The robot in this maze epically came first in the class, and made it to the exit without trouble.
